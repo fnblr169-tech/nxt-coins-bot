@@ -1,0 +1,1 @@
+# nxt-coins-bot
